@@ -1,7 +1,11 @@
 # Personal Portfolio — Timothy Attah
 
 <p align="center">
-  <img src="/assets/screenshots/gitpic1.png" alt="Timothy Attah's Personal Portfolio" width="100%" />
+  <img
+  src="public/assets/screenshots/gitpic1.png"
+  alt="Timothy Attah's Personal Portfolio"
+  width="100%"
+/>
 </p>
 
 <p align="center">
@@ -38,7 +42,7 @@ The project combines modern frontend technologies, animation libraries, and 3D r
 | HTTP Requests       | Axios                                       |
 | Contact Integration | EmailJS                                     |
 
-## Features
+<!-- ## Features
 
 - Responsive and modern user interface
 - Interactive animations and transitions
@@ -47,7 +51,21 @@ The project combines modern frontend technologies, animation libraries, and 3D r
 - Interactive navigation
 - Animated counters and content effects
 - Contact form integration
-- Responsive layouts for different screen sizes
+- Responsive layouts for different screen sizes -->
+
+## Features
+
+- Responsive and modern portfolio interface.
+- Dark and light theme experiences.
+- Interactive 3D environment with drag-to-explore interaction.
+- Immersive animations and visual transitions.
+- Animated typography and interactive content.
+- Personal introduction and professional profile.
+- Project showcase.
+- Services section.
+- Resume access.
+- Social media integration.
+- Contact form integration.
 
 ## Screenshots
 
@@ -56,13 +74,13 @@ The portfolio features two visual themes, each offering a distinct browsing expe
 ### Dark Theme
 
 <p align="center">
-  <img src="/assets/screenshots/gitpic1.png" alt="Personal portfolio homepage in dark theme" width="100%" />
+  <img src="public/assets/screenshots/gitpic1.png" alt="Personal portfolio homepage in dark theme" width="100%" />
 </p>
 
 ### Light Theme
 
 <p align="center">
-  <img src="/assets/screenshots/gitpic2.png" alt="Personal portfolio homepage in light theme with interactive 3D environment" width="100%" />
+  <img src="public/assets/screenshots/gitpic2.png" alt="Personal portfolio homepage in light theme with interactive 3D environment" width="100%" />
 </p>
 
 <!-- Add more screenshots as the project develops. -->
